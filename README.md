@@ -51,5 +51,3 @@ GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 * [alexandred](https://github.com/alexandred/) for [VoodooI2C](https://github.com/alexandred/VoodooI2C) for trackpad related stuff.
 * A few People on the discord server
 * To anyone else whose work I might have used.
-
-If my work helped you, and you consider helping me in return, please star this repo and if you can spare some bucks, buy me a coffee :) [Paypal](https://paypal.me/Datta0).
