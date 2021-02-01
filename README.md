@@ -29,10 +29,8 @@
 - [x] Webcam
 - [x] Trackpad with multi finger gestures 
 - [x] iMessages and FaceTime
-- [ ] Bluetooth (Works and connects, but can't turn off)
-### To be tested
-- [ ] HDMI
-- [ ] Internal SD Card Reader    
+- [x] HDMI
+- [ ] Bluetooth (Works and connects, but can't turn off ie Bluetooth power management doesn't work)
 
 ## Installation Guide
 1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
